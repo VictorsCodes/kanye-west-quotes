@@ -27,7 +27,7 @@ const App = () => {
           <button onClick={reloadQuote}>🔄 refresh</button>
         </div>
         <div className="bg-neutral-300 relative rounded-xl px-5 pt-6">
-          <p className="text-xl font-medium pb-6 leading-6">“{quote}“</p>
+          <p className="text-xl font-medium pb-6 leading-6">“{quote}”</p>
           <p className="absolute right-0  bottom-0 pr-3 text-sm text-black/60 pb-1">
             - Kanye West
           </p>
