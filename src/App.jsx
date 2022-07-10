@@ -16,7 +16,7 @@ const App = () => {
     <div className="dark container mx-auto max-w-2xl">
       <header className="text-center mt-10">
         <h1 className="text-3xl font-bold">
-          <a href="">🌊 kanye.rest</a>
+          <a href="">🌊 kanye.west</a>
         </h1>
         <p className="text-black/60 pt-8">
           Umas frases aleatorias do Kanye West.
